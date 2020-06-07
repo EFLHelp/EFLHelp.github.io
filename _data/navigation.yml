@@ -1,5 +1,11 @@
 # main links links
 main:
+  - title: "Grade 1"
+    url: /markdown/
+    
+  - title: "Grade 2"
+    url: /cv/
+    
   - title: "Grade 3"
     url: /grade-3/
 
@@ -15,8 +21,6 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+
     
-  - title: "Guide"
-    url: /markdown/
+ 
