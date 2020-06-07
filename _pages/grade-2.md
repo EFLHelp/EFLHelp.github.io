@@ -1,10 +1,10 @@
 ---
-permalink: /markdown/
-title: "Markdown"
+permalink: /grade-2/
+title: "Helpful tips for Second Graders"
 author_profile: true
-redirect_from: 
-  - /md/
-  - /markdown.html
+ redirect_from: 
+   - /md/
+   - /markdown.html
 ---
 
 ## Locations of key files/directories
