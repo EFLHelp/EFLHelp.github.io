@@ -1,11 +1,11 @@
 ---
 permalink: /
 title: "Extra Resources for English Learners "
-excerpt: "Extra Help"
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is a website to help with English
+This is a website to help students with their English learning
