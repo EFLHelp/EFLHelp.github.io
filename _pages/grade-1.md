@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Helpful Tips for First Graders"
-permalink: /Grade-1/
+permalink: /grade-1/
 author_profile: true
 redirect_from:
   - /resume
