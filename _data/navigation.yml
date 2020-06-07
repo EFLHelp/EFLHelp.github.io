@@ -1,16 +1,16 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Grade 3"
+    url: /grade-3/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Grade 4"
+    url: /grade-4/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Grade 5"
+    url: /grade-5/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Grade 6"
+    url: /grade-6/
         
   - title: "Blog Posts"
     url: /year-archive/
