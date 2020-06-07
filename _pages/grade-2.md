@@ -1,36 +1,29 @@
 ---
+layout: archive
+title: "Helpful Tips for First Graders"
 permalink: /grade-2/
-title: "Helpful tips for Second Graders"
 author_profile: true
- redirect_from: 
-   - /md/
-   - /markdown.html
+redirect_from:
+  - /resume
 ---
 
-## Worksheets
+{% include base_path %}
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+Worksheets
+======
+* B.S. in GitHub, GitHub University, 2012
 
-## Flashcards
 
-* Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
-* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
-  * Green check: successful build
-  * Orange circle: building
-  * Red X: error
-  * No icon: not built
-
-## Websites
- * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
+Flashcards
+======
+* Summer 2015: Research Assistant
+  * Github University
+ 
+  
+Websites
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
 
