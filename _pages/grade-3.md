@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Extra Help for Third Graders"
+permalink: /grade-3/
 author_profile: true
 ---
 
