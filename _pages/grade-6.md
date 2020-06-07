@@ -1,4 +1,3 @@
-
 ---
 layout: archive
 title: "Helpful Tips for Sixth Graders"
